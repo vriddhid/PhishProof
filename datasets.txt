@@ -1,0 +1,4 @@
+'Benign_list_big_final.csv' is the file of our interest.
+https://www.unb.ca/cic/datasets/url-2016.html
+and for phishing urls
+https://www.phishtank.com/developer_info.php
